@@ -1,0 +1,173 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 h2 h3 h4 h5 h6{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+.heading{
+    font-size: 28px;
+}
+.section{
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.heading-sm{
+    font-size: 22px;
+    color: #000;
+    text-decoration: none !important;
+}
+
+.underline{
+    background-color: rgb(255, 2, 2);
+    height: 4px !important;
+    border-radius: 10px;
+    width: 5rem !important;
+    margin-bottom: 16px;
+}
+.main-heading{
+    font-size: 28px;
+    margin-bottom: 16px;
+    font-weight: 800;
+}
+
+.bg-lightgray{
+    background-color: #f2f2f2;   
+}
+
+
+.card-box {
+    margin-top: 38px;
+    margin-bottom: 20px;
+    padding: 18px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 30px 0px rgb(102 45 145 / 37%);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    background-color: #fff;
+    transition: 0.5s ease;
+}
+.card-box .roomimage{
+    margin-top: -48px;
+    height: 12rem;
+}
+.card-box .roomimage img{
+    height: 100%;
+    width: 100%;
+    border-radius: 12px;
+}
+.card-box-body{
+    padding-top: 16px;
+}
+.card-box .card-heading{
+    font-size: 18px;
+    font-weight: 600;
+    color: #000;
+    line-height: 23px;
+}
+
+.testi-card{
+    background-color: #fff;
+    padding: 34px;
+    border-top: 7px solid #0f00ff;
+    border-radius: 22px;
+    box-shadow: 3px 3px 9px 3px #f2f2f2;
+    border-bottom: 1px solid #ddd;
+}
+.testi-title {
+    margin-bottom: 0;
+    font-weight: 600;
+    font-size: 18px;
+    color: #0e121e;
+    line-height: 32px;
+    display: inline-block;
+    border-top: 1px solid;
+}
+
+.owl-nav button.owl-next, 
+.owl-nav button.owl-prev {
+    color: #fff !important;
+    margin-left: 10px;
+    background-color: orange !important;
+    border: none !important;
+    outline: none;
+    font-size: 20px !important;
+    height: 28px;
+    width: 38px !important;
+}
+
+.footer-links a{
+    color: #fff !important;
+    padding: 03px 10px;
+    font-size: 14px;
+    display: block;
+    text-decoration: none;
+}
+.f-12{
+    font-size: 13px;
+}
+
+.navbar{
+    padding: 0px;
+}
+.nav-link{
+    padding: 14px 24px !important;
+    font-weight: 800;
+    font-size: 16px;
+    color: #000;
+    border-bottom: 4px solid transparent;
+    border-top: 4px solid transparent;
+}
+.nav-item .active{
+    background-color: red;
+    color: #fff;
+}
+
+.card-label{
+    font-size: 13px;
+    color: gray;
+}
+.card-name{
+    font-size: 20px;
+    color: #000;
+}
+.card-room-price{
+    color: #a59494;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.card-description{
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+.card-description p{
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+.sub-heading{
+    font-size: 22px;
+    font-weight: 600;
+    color: gray;
+    border-left: 4px solid;
+    padding: 12px 14px;
+    margin: 0px;
+}
+
+.myprofile label{
+    font-size: 13px;
+}
+.myprofile .form-control{
+    font-size: 14px;
+}
+.login-border{
+    border-top-left-radius: 12px !important;
+    border-top-right-radius: 12px !important;
+}
+.login-head-border{
+    border-top-left-radius: 12px !important;
+    border-top-right-radius: 12px !important;
+}
